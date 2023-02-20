@@ -82,9 +82,15 @@ if __name__ == '__main__':
     solve(board)
     print_board(board)
 
-    # SUDOKU GUI (Graphical user interface)
     
-    from sudokutools import valid, solve, find_empty
+
+
+
+
+# SUDOKU GUI (Graphical user interface)
+
+
+from sudokutools import valid, solve, find_empty
 from copy import deepcopy
 from sys import exit
 import pygame
