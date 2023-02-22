@@ -1,7 +1,8 @@
 # 5_beginner_python_project
 I have created five beginner python projects.
 
-                                              #####   1. SUDOKU    *** pygame==2.0.1 is required. *** 
+     
+     #####   1. SUDOKU    *** pygame==2.0.1 is required. *** 
 
 About:
 This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizing through the Backtracking Algorithm which is made using the PyGame Library in Python. Ever tried but stucked on Sudoku Puzzles given in newspapers, magazines and online. You can use this script to get its solution instantly and move further.
@@ -38,8 +39,7 @@ pip install -r requirements.txt
 
 
 
-
-                                              #####  2. Tic-Tac-Toe Game
+     #####  2. Tic-Tac-Toe Game
 
 Tic-Tac-Toe
 Tic-Tac-Toe Game is a simple Python project based on the popular Tic-Tac-Toe Game. The game’s logic is pretty simple, as a player can start this game by clicking on each grid to place the symbol ‘0’ or ‘X’.
@@ -69,9 +69,22 @@ Controls
 
 
 
-                                        # Email-Slicer-with-Python
+     ##### 3. Email-Slicer-with-Python
 
 Email Slicer is the easiest but most popular Python project that will have a lot of use in the future. This Python project requires users to generate a program to retrieve the username and domain of an email. You can customize the application and send a message to the host with this information. Although it might look like a simple Python project idea, it helps you enhance your Python coding skills.
+
+
+
+
+ 
+    ##### 4. Mad-Libs-Generator
+Enter in the words and a story will be written for you.
+The program will ask you to type in words from the different parts of speech. Then it will display a story written from those chosen works.
+(This was just a fun mini project that I created, you may do anything you wish with it within the bounds of the MIT license.)
+
+
+    ##### 5. Number Guessing Game
+
 
 
 
